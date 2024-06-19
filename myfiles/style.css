@@ -142,27 +142,27 @@
 
 
 .proj1 > div {
-    background-image: url("/projects/thumbnails/project-1.jpg");
+    background-image: url("projects/thumbnails/project-1.jpg");
 }
 
 .proj2 > div {
-    background-image: url("/projects/thumbnails/project-2.jpg");
+    background-image: url("projects/thumbnails/project-2.jpg");
 }
 
 .proj3 > div {
-    background-image: url("/projects/thumbnails/project-3.jpg");
+    background-image: url("projects/thumbnails/project-3.jpg");
 }
 
 .proj4 > div {
-    background-image: url("/projects/thumbnails/project-4.jpg");
+    background-image: url("projects/thumbnails/project-4.jpg");
 }
 
 .proj5 > div {
-    background-image: url("/projects/thumbnails/project-5.jpg");
+    background-image: url("projects/thumbnails/project-5.jpg");
 }
 
 .proj6 > div {
-    background-image: url("/projects/thumbnails/project-6.jpg");
+    background-image: url("projects/thumbnails/project-6.jpg");
 }
 
 
