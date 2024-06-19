@@ -185,7 +185,8 @@
 
 @media screen and (max-width: 1000px) {
     .project-cat-list {
-        grid-template-columns: 1fr 1fr 1fr ;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px;
     }
     .project-cat {
         padding-left: 1vmax;
@@ -201,6 +202,7 @@
     }
     .project-posts {
         grid-template-columns: 1fr 1fr;
+        gap: 20px;
     }
 
     .project-post {
