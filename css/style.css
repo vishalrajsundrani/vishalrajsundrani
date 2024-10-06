@@ -8403,7 +8403,7 @@ h1, h2, h3, h4, h5,
     opacity: 100;
     width: 50%;
     background: #EDF0FF;
-    background-image: url(profile/final.png);
+    /*background-image: url(profile/final.png);*/
     background-position: left bottom;
     background-size: contain;
     background-repeat: no-repeat;
